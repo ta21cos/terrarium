@@ -1,0 +1,1 @@
+CREATE TABLE "public"."article" ("title" text NOT NULL, "uid" text NOT NULL, "tags" text[] NOT NULL, "ogpUrl" text NOT NULL, "content" text NOT NULL, "id" uuid NOT NULL, PRIMARY KEY ("id") , UNIQUE ("uid"));
