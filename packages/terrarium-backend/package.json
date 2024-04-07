@@ -1,0 +1,11 @@
+{
+  "name": "terrarium-backend",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "hasura": "HASURA_GRAPHQL_ADMIN_SECRET=myadminsecretkey hasura --project hasura"
+  },
+  "dependencies": {
+    "hasura-cli": "2.36.2"
+  }
+}
