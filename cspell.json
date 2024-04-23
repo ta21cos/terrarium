@@ -1,0 +1,10 @@
+{
+  "words": [
+    "kysely",
+    "kysely-codegen",
+    "hasura",
+    "codegen",
+    "microcms"
+  ],
+  "ignorePaths": ["**/package.json"]
+}
